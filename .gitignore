@@ -1,2 +1,5 @@
+dist/
+migrations/
+temp/
 node_modules/
 .DS_Store
